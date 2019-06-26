@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973745456613",
+    "firebase_url": "https://reactnativenotas.firebaseio.com",
+    "project_id": "reactnativenotas",
+    "storage_bucket": "reactnativenotas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973745456613:android:15168d93e5a942f0",
+        "android_client_info": {
+          "package_name": "com.reactnativenotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973745456613-tn39q6ht7u2ac7bqfnejb0rnej0mmoj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwOFQeJIr8XoWU11hirGnJPVDooQY44B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973745456613-tn39q6ht7u2ac7bqfnejb0rnej0mmoj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973745456613-9j5grd5k8tgksd2csub5almq0j0ulmtj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativenotas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

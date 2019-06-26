@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>973745456613-kgvn9dhfmcocpugk0m209shrc8ribcql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.973745456613-kgvn9dhfmcocpugk0m209shrc8ribcql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzmFft-mtmxEn5XMpI-y4d0AxON-iMhJk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>973745456613</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ReactNativeNotas</string>
+	<key>PROJECT_ID</key>
+	<string>reactnativenotas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reactnativenotas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:973745456613:ios:202d87dc1c970638</string>
+	<key>DATABASE_URL</key>
+	<string>https://reactnativenotas.firebaseio.com</string>
+</dict>
+</plist>
